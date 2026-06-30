@@ -1,0 +1,1 @@
+Utilizando como base el repo zrjosser/nodejs_server migrar el uso de express, sustituirlo por nest.js manteniendo toda la funcionalidad que contiene el repo, tambien migrar la documentacion
